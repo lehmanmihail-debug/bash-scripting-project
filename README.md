@@ -75,4 +75,4 @@ sh scripts/04_project_creator.sh
 
 Команда в терминале:
 chmod +x test_all.sh
-./test_all.sh
+./test_all.sh 
